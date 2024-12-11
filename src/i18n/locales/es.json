@@ -1,0 +1,51 @@
+{
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "email": "Correo",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "submit": "Enviar"
+  },
+  "baby": {
+    "name": "Nombre del Bebé",
+    "weight": "Peso",
+    "length": "Longitud"
+  },
+  "tracking": {
+    "diaper": {
+      "title": "Cambio de Pañal",
+      "status": {
+        "urine": "Orina",
+        "feces": "Heces",
+        "both": "Ambos",
+        "clean": "Limpio"
+      }
+    },
+    "sleep": {
+      "title": "Sueño",
+      "start": "Hora Inicio",
+      "end": "Hora Fin"
+    },
+    "feeding": {
+      "title": "Alimentación",
+      "type": {
+        "bottle": "Biberón",
+        "breast": "Pecho"
+      },
+      "side": {
+        "left": "Izquierdo",
+        "right": "Derecho",
+        "both": "Ambos"
+      },
+      "amount": "Cantidad (ml)"
+    }
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "notes": "Notas",
+    "settings": "Configuración",
+    "logout": "Cerrar Sesión"
+  }
+}

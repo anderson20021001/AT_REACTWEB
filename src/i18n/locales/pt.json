@@ -1,0 +1,51 @@
+{
+  "auth": {
+    "login": "Entrar",
+    "register": "Cadastrar",
+    "email": "Email",
+    "password": "Senha",
+    "name": "Nome",
+    "submit": "Enviar"
+  },
+  "baby": {
+    "name": "Nome do Bebê",
+    "weight": "Peso",
+    "length": "Comprimento"
+  },
+  "tracking": {
+    "diaper": {
+      "title": "Troca de Fralda",
+      "status": {
+        "urine": "Urina",
+        "feces": "Fezes",
+        "both": "Ambos",
+        "clean": "Limpa"
+      }
+    },
+    "sleep": {
+      "title": "Sono",
+      "start": "Hora Início",
+      "end": "Hora Fim"
+    },
+    "feeding": {
+      "title": "Amamentação",
+      "type": {
+        "bottle": "Mamadeira",
+        "breast": "Seio"
+      },
+      "side": {
+        "left": "Esquerdo",
+        "right": "Direito",
+        "both": "Ambos"
+      },
+      "amount": "Quantidade (ml)"
+    }
+  },
+  "common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "notes": "Observações",
+    "settings": "Configurações",
+    "logout": "Sair"
+  }
+}

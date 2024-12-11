@@ -1,0 +1,56 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "submit": "Submit"
+  },
+  "baby": {
+    "name": "Baby Name",
+    "weight": "Weight",
+    "length": "Length",
+    "birthDate": "Birth Date",
+    "gender": "Gender",
+    "days": "days old",
+    "months": "months old",
+    "photo": "Photo URL"
+  },
+  "tracking": {
+    "diaper": {
+      "title": "Diaper Change",
+      "status": {
+        "urine": "Urine",
+        "feces": "Feces",
+        "both": "Both",
+        "clean": "Clean"
+      }
+    },
+    "sleep": {
+      "title": "Sleep",
+      "start": "Start Time",
+      "end": "End Time"
+    },
+    "feeding": {
+      "title": "Feeding",
+      "type": {
+        "bottle": "Bottle",
+        "breast": "Breast"
+      },
+      "side": {
+        "left": "Left",
+        "right": "Right",
+        "both": "Both"
+      },
+      "amount": "Amount (ml)"
+    }
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "notes": "Notes",
+    "settings": "Settings",
+    "logout": "Logout"
+  }
+}
